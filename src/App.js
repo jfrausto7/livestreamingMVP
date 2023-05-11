@@ -27,7 +27,7 @@ function App() {
         <Route path="favorites" element={<Favorites />} />
         <Route path="Profile" element={<Profile />} />
         <Route path="/Home" element={<Home />} />
-        <Route exact path="/" element={<Home />} />
+        <Route exact path="/public/index.html" element={<Home />} />
       </Routes>
       <Footer />
     </div>
