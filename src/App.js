@@ -13,6 +13,7 @@ import PetBio from "./pages/PetBio";
 import Favorites from "./pages/Favorites";
 import Profile from "./pages/Profile";
 function App() {
+  console.log("HELLO");
   return (
     <div className="App">
       <Navbar />
