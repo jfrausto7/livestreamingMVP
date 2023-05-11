@@ -1,8 +1,7 @@
 {
   "name": "Purrfect",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://frausto.tech/livestreamingMVP/build",
+  "homepage": "",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.0",
@@ -46,5 +45,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
