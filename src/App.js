@@ -17,6 +17,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Routes>
+        <Route exact path="/" element={<Home />} />
         <Route path="adopt" element={<Adopt />} />
         <Route path="volunteer" element={<Volunteer />} />
         <Route path="donate" element={<Donate />} />
@@ -27,7 +28,6 @@ function App() {
         <Route path="favorites" element={<Favorites />} />
         <Route path="Profile" element={<Profile />} />
         <Route path="/Home" element={<Home />} />
-        <Route exact path="/public/index.html" element={<Home />} />
       </Routes>
       <Footer />
     </div>
