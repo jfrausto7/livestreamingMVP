@@ -12,7 +12,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <ThemeProvider theme={themeOptions}>
     <PurrfectProvider>
-      <HashRouter base="/">
+      <HashRouter basename="/">
         <React.StrictMode>
           <App />
         </React.StrictMode>
