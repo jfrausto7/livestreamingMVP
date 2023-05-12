@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/livestreamingMVP/static/css/main.e27cf812.css",
-    "main.js": "/livestreamingMVP/static/js/main.aed3f19d.js",
+    "main.js": "/livestreamingMVP/static/js/main.4ee299ec.js",
     "static/js/496.08b6cd9d.chunk.js": "/livestreamingMVP/static/js/496.08b6cd9d.chunk.js",
     "static/media/Hairy.ttf": "/livestreamingMVP/static/media/Hairy.32fc921e0a30dc5e982e.ttf",
     "static/media/rundog.jpg": "/livestreamingMVP/static/media/rundog.c1905b57e5544248bb16.jpg",
@@ -18,11 +18,11 @@
     "static/media/volunteerSchool.png": "/livestreamingMVP/static/media/volunteerSchool.53e006dc4692db47b1c7.png",
     "index.html": "/livestreamingMVP/index.html",
     "main.e27cf812.css.map": "/livestreamingMVP/static/css/main.e27cf812.css.map",
-    "main.aed3f19d.js.map": "/livestreamingMVP/static/js/main.aed3f19d.js.map",
+    "main.4ee299ec.js.map": "/livestreamingMVP/static/js/main.4ee299ec.js.map",
     "496.08b6cd9d.chunk.js.map": "/livestreamingMVP/static/js/496.08b6cd9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e27cf812.css",
-    "static/js/main.aed3f19d.js"
+    "static/js/main.4ee299ec.js"
   ]
 }
