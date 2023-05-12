@@ -1,7 +1,7 @@
 {
   "name": "Purrfect",
   "version": "0.1.0",
-  "homepage": "https://frausto.tech/livestreamingMVP/",
+  "homepage": "/livestreamingMVP",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.0",
