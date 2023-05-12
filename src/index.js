@@ -9,6 +9,8 @@ import { themeOptions } from "./Styles/themeOptions";
 import { ThemeProvider } from "@mui/material/styles";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
+console.log("HELLO");
+
 root.render(
   <ThemeProvider theme={themeOptions}>
     <PurrfectProvider>
