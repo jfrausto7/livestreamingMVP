@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/livestreamingMVP/static/css/main.e27cf812.css",
+    "main.js": "/livestreamingMVP/static/js/main.aed3f19d.js",
+    "static/js/496.08b6cd9d.chunk.js": "/livestreamingMVP/static/js/496.08b6cd9d.chunk.js",
+    "static/media/Hairy.ttf": "/livestreamingMVP/static/media/Hairy.32fc921e0a30dc5e982e.ttf",
+    "static/media/rundog.jpg": "/livestreamingMVP/static/media/rundog.c1905b57e5544248bb16.jpg",
+    "static/media/home.jpg": "/livestreamingMVP/static/media/home.eb0a55ad4d85ea669621.jpg",
+    "static/media/sadDog.jpg": "/livestreamingMVP/static/media/sadDog.385d9eaf8ea3b5a6f187.jpg",
+    "static/media/littleboywithgolden.jpg": "/livestreamingMVP/static/media/littleboywithgolden.56056dddef8227fc00d5.jpg",
+    "static/media/slack-imgs-1.jpg": "/livestreamingMVP/static/media/slack-imgs-1.ab06cf6781463a70fedd.jpg",
+    "static/media/cat.jpg": "/livestreamingMVP/static/media/cat.c574d208fa8fa0c33f7e.jpg",
+    "static/media/standdog.jpg": "/livestreamingMVP/static/media/standdog.748a5daf6374807a7025.jpg",
+    "static/media/volunteerFoster.png": "/livestreamingMVP/static/media/volunteerFoster.3776b08f7690917c12d0.png",
+    "static/media/defaultImage.png": "/livestreamingMVP/static/media/defaultImage.1867e363e9f26cd11e9b.png",
+    "static/media/pawIcon.png": "/livestreamingMVP/static/media/pawIcon.8da94a705f13f737a970.png",
+    "static/media/volunteerPeople.png": "/livestreamingMVP/static/media/volunteerPeople.fa43d580429550a35c26.png",
+    "static/media/volunteerSchool.png": "/livestreamingMVP/static/media/volunteerSchool.53e006dc4692db47b1c7.png",
+    "index.html": "/livestreamingMVP/index.html",
+    "main.e27cf812.css.map": "/livestreamingMVP/static/css/main.e27cf812.css.map",
+    "main.aed3f19d.js.map": "/livestreamingMVP/static/js/main.aed3f19d.js.map",
+    "496.08b6cd9d.chunk.js.map": "/livestreamingMVP/static/js/496.08b6cd9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e27cf812.css",
+    "static/js/main.aed3f19d.js"
+  ]
+}
